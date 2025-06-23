@@ -1,0 +1,10 @@
+Instance ID: i-0e7bff7e8538cf8d7
+Public IP: 13.58.26.147
+AMI ID: ami-0b67e14c2ad20f57d
+Instance Type: t3.medium
+Key Name: llm-deployment-key
+Security Group: llm-api-sg
+Region: us-east-2
+Launch Time: Mon Jun 23 18:16:44 EDT 2025
+SSH command: ssh -i llm-deployment-key.pem ec2-user@13.58.26.147
+API will be available at: http://13.58.26.147:8000
