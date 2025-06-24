@@ -44,7 +44,7 @@ This project demonstrates end-to-end deployment of an open source language model
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/RoxanneWAAANG/AWS-LLM-Deployment
 cd AWS-LLM-Deployment
 
 # Navigate to deployment directory
